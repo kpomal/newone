@@ -1,0 +1,6 @@
+#new
+# prinitn some code
+#import java.util.*
+public static voin main(String args[])
+{
+System.out.println ("Welcome Here");
